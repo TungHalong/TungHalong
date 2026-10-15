@@ -1,0 +1,6 @@
+{
+  "name": "MSMS - Hệ Thống Quản Lý Nguồn Nghĩa Vụ Quân Sự",
+  "description": "Phần mềm thu thập bằng thiết bị đầu cuối thông minh, số hóa OCR, đối chiếu liên ngành và tổng hợp nguồn công dân nghĩa vụ quân sự cấp xã/phường.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
